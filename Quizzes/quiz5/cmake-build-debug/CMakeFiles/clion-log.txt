@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/happa2222/Documents/2021-2022/ee312/Quizzes/quiz5 -B /Users/happa2222/Documents/2021-2022/ee312/Quizzes/quiz5/cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/happa2222/Documents/2021-2022/ee312/Quizzes/quiz5/cmake-build-debug
